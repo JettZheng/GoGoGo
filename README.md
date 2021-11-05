@@ -1,0 +1,2 @@
+# GoGoGo
+deep to golang
